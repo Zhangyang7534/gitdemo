@@ -36,5 +36,12 @@ mksmdak
 mksmdak
 mksmdak
 mksmdak
-mksmdak
+pp:das:::0000:
+:wq
+:wq
+w::
+:wq
+;:ssdw
 
+:wq::::
+L:w
